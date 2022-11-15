@@ -11,6 +11,7 @@ class SpotBanking extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home:SplashScreen(),
+
     );
   }
 }
